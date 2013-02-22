@@ -398,6 +398,16 @@
       </div><!-- /.row -->
 
 
+      <!-- Announcements -->
+      
+    <ul class="posts">
+        {% for post in site.posts limit:3 %}
+            <li>{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+      
+      <!-- /Announcements -->
+
       <!-- START THE FEATURETTES -->
 
       <hr class="featurette-divider">
