@@ -1,4 +1,0 @@
-{"ts":1361560461161,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
-{"contributors":[],"silentsave":false,"ts":1361560467880,"patch":[[{"diffs":[[1,"---\r\nlayout: post\r\ntitle: First Announcement Ever\r\ncategory: announcements\r\n---"]],"start1":0,"start2":0,"length1":0,"length2":79}]],"length":79,"saved":false}
-{"ts":1361560483610,"patch":[[{"diffs":[[0,"le: "],[-1,"First Announcement Ever"],[1,"Joseph's Birthday"],[0,"\r\nca"]],"start1":22,"start2":22,"length1":31,"length2":25},{"diffs":[[0,"nts\r\n---"],[1,"\r\nJoseph's birthday is on December 9th."]],"start1":65,"start2":65,"length1":8,"length2":47}]],"length":112,"saved":false}
-{"ts":1361560489650,"patch":[[{"diffs":[[0,"ber 9th."],[1,"\r\n\r\nSomething something awesome blah blah!"]],"start1":104,"start2":104,"length1":8,"length2":50}]],"length":154,"saved":false}
