@@ -2,8 +2,8 @@
 layout: default
 title: Bridgeway Church
 ---
-    <ul class="posts">
-        {% for post in site.posts limit:3 %}
-            <li>{{ post.title }}</a></li>
-        {% endfor %}
-    </ul>
+<ul class="posts">
+    {% for announcements in site.categories.announcements limit:4 %}
+       <li>{{ announcements.content }}</a></li>
+    {% endfor %}
+</ul>

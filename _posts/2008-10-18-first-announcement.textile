@@ -1,4 +1,6 @@
 ---
 layout: post
 title: First Announcement Ever
+category: announcements
 ---
+This is the first announcement. It's quite uninformative, unlike all our usual announcements at Bridgeway.
