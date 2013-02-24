@@ -1,5 +1,5 @@
 ---
 title: Invitation
-image: http://bridgewaychurch.ca/images/cross-purple.jpg
+image: http://bridgewaychurch.ca/images/slide01.jpg
 category: pillars
 ---
