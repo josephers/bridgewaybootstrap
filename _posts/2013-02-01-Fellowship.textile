@@ -1,4 +1,5 @@
 ---
 title: Fellowship
 image: http://bridgewaychurch.ca/images/slide02.jpg
+category: pillars
 ---

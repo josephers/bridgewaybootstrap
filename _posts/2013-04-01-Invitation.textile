@@ -1,4 +1,5 @@
 ---
 title: Conversation
 image: http://bridgewaychurch.ca/images/cross-purple.jpg
+category: pillars
 ---
