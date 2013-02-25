@@ -1,5 +1,0 @@
----
-title: Serve
-image: http://bridgewaychurch.ca/images/slide03.jpg
-category: pillars
----
