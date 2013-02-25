@@ -4,5 +4,3 @@ title: Joseph's Birthday
 category: announcements
 ---
 Joseph's birthday is on December 9th.
-
-Something something awesome blah blah!
