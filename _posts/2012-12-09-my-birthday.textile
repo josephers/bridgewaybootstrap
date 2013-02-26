@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Joseph's Birthday
 category: announcements
 ---
