@@ -3,3 +3,18 @@ title: Invitation
 image: http://bridgewaychurch.ca/images/slide01.jpg
 category: pillars
 ---
+
+<div id="invitation" class="featurette">
+  <img class="featurette-image pull-right" src="http://placehold.it/500x500">
+  <h2 class="featurette-heading">Invitation</h2>
+  <p class="lead">The first step in our worship-focused life is invitation. <br/>Here are some ways we do that.</p>
+  <hr>
+  <h3 class="muted">Our Hospitality Team</h3>
+  <p class="lead">The Hospitality Team embodies the hospitality of God to all those that come into our community. We welcome and help people become familiar with Bridgeway Church.</p>
+  <hr>
+  <h3 class="muted">Walk through Bridgeway Church</h3>
+  <p class="lead">Three times a year, we formally introduce ourselves to newcomers to Bridgeway Church. Join us for our next walk-through, coming in Spring of 2013!</p>
+  <hr>
+  <h3 class="muted">Gospel Message</h3>
+  <p class="lead">With those who are interested in sharing the gospel, we have sessions together for a brief look at how one can share the message with their peers or friends, with Biblical clarity and personal testimony.</p>
+</div>
