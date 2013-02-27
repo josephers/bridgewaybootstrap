@@ -5,7 +5,7 @@ category: pillars
 ---
 
 <div id="fellowship" class="featurette">
-<img class="featurette-image pull-right" src="http://placehold.it/500x500">
+<img class="featurette-image pull-right" src="http://placehold.it/250x250">
 
 h2(featurette-heading). Fellowship
 
