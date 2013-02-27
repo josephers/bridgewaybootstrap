@@ -5,27 +5,46 @@ category: pillars
 ---
 
 <div id="conversation" class="featurette">
-  <img class="featurette-image pull-left" src="http://placehold.it/500x500">
-  <h2 class="featurette-heading">Conversation</h2>
-  <p class="lead">The next step in our worship-focused life is conversation. <br/>Let's get talking!</p>
-  <hr>
-  <h3 class="muted">Catechism</h3>
-  <p class="lead">Catechism is the teaching of who God is, and how we are inited to live their life through their knowledge of God. There are three courses we offer regularly.</p>
-  <h5>Catechism I: Knowing God</h5>
-  <h5>Catechism II: Speaking to God</h5>
-  <h5>Catechism III: Following Christ</h5>
-  <p class="lead">The first course runs seven weeks, on Sundays after our worship service, and the next two are four weeks each.</p>
+<img class="featurette-image pull-left" src="http://placehold.it/500x500">
 
-  <hr>
-  <h3 class="muted">Children's Ministry</h3>
-  <p class="lead">They say children are our future. Children's Ministry has the very important role of teaching children their first steps toward developing a healthy relationship with God. But it's not just for children — the ministry's primary focus is to encourage parents to disciple their children to instill a life-long spritual discipline.</p>
-  <hr>
-  <h3 class="muted">Cup-panion</h3>
-  <p class="lead">A cup-panion, described so for the idea of meeting over a cup of coffee, is a small group meeting for those who want to meet one-on-one for the purpose of mutual encouragement and edification. The topic or reason for meeting is left up to the group. The duration of cup-panionship will vary, but we encourage you to keep it less than twelve weeks.</p>
-  <hr>
-  <h3 class="muted">Small Group</h3>
-  <p class="lead">Small groups are gatherings for guidance and discussion of God's workings in our lives.</p>
-  <hr>
-  <h3 class="muted">Young Adult Ministry</h3>
-  <p class="lead">The Young Adult Ministry, endearingly called YAM, seeks to provide community to those that are in their late teens to early adulthood.</p>
+h2(featurette-heading). Conversation
+
+
+The next step in our worship-focused life is conversation.
+Let's get talking!
+
+<hr>
+
+h3(muted). Catechism
+
+Catechism is the teaching of who God is, and how we are inited to live their life through their knowledge of God. There are three courses we offer regularly.
+<h5>Catechism I: Knowing God</h5>
+<h5>Catechism II: Speaking to God</h5>
+<h5>Catechism III: Following Christ</h5>
+The first course runs seven weeks, on Sundays after our worship service, and the next two are four weeks each.
+
+<hr>
+
+h3(muted). Children's Ministry
+
+They say children are our future. Children's Ministry has the very important role of teaching children their first steps toward developing a healthy relationship with God. But it's not just for children — the ministry's primary focus is to encourage parents to disciple their children to instill a life-long spritual discipline.
+
+<hr>
+
+h3(muted). Cup-panion
+
+A cup-panion, described so for the idea of meeting over a cup of coffee, is a small group meeting for those who want to meet one-on-one for the purpose of mutual encouragement and edification. The topic or reason for meeting is left up to the group. The duration of cup-panionship will vary, but we encourage you to keep it less than twelve weeks.
+
+<hr>
+
+h3(muted). Small Group
+
+Small groups are gatherings for guidance and discussion of God's workings in our lives.
+
+<hr>
+
+h3(muted). Young Adult Ministry
+
+The Young Adult Ministry, endearingly called YAM, seeks to provide community to those that are in their late teens to early adulthood.
+
 </div>

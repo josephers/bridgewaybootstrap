@@ -5,14 +5,23 @@ category: pillars
 ---
 
 <div id="serve" class="featurette">
-  <img class="featurette-image pull-left" src="http://placehold.it/500x500">
-  <h2 class="featurette-heading">Serve</h2>
-  <p class="lead">What is our last step? To serve. <br/> Aside from our extended community, we have several ways for you to serve within the church.</p>
-  <hr>
-  <h3 class="muted">Admin team</h3>
-  <p class="lead">.</p>
-  <hr>
-  <h3 class="muted">Building committee deals with...</h3>
-  <p class="lead">Building Committee deals with various maintenance issues and up keep of Bridgeway Church.</p>
-</div>
+<img class="featurette-image pull-left" src="http://placehold.it/500x500">
 
+h2(featurette-heading). Serve
+
+What is our last step? To serve.
+Aside from our extended community, we have several ways for you to serve within the church.
+
+<hr>
+
+h3(muted). Admin team
+
+Placeholder.
+
+<hr>
+
+h3(muted). Building committee deals with...
+
+Building Committee deals with various maintenance issues and up keep of Bridgeway Church.
+
+</div>

@@ -5,22 +5,41 @@ category: pillars
 ---
 
 <div id="fellowship" class="featurette">
-  <img class="featurette-image pull-right" src="http://placehold.it/500x500">
-  <h2 class="featurette-heading">Fellowship</h2>
-  <p class="lead">We are not alone, fellows. <br/>We fellowship through, but not limited through, the following ways.</p>
-  <hr>
-  <h3 class="muted">Baptism and Communion</h3>
-  <p class="lead">These are two sacrements Jesus instituted for the church. They are an act which reveals our pledge to God and other believers. Baptism is held twice a year, on Easter Sunday and Christmas service. Communion, where we take bread and wine, is held every week, to remember Christ and his work.</p>
-  <hr>
-  <h3 class="muted">Diaconate Ministry</h3>
-  <p class="lead">Diaconate Ministry seeks mercy ministry opportunities in our community.</p>
-  <hr>
-  <h3 class="muted">Life Group</h3>
-  <p class="lead">A cup-panion, described so for the idea of meeting over a cup of coffee, is a small group meeting for those who want to meet one-on-one for the purpose of mutual encouragement and edification. The topic or reason for meeting is left up to the group. The duration of cup-panionship will vary, but we encourage you to keep it less than twelve weeks.</p>
-  <hr>
-  <h3 class="muted">Membership class</h3>
-  <p class="lead">Small groups are gatherings for guidance and discussion of God's workings in our lives.</p>
-  <hr>
-  <h3 class="muted">Spiritual direction</h3>
-  <p class="lead">The Young Adult Ministry, endearingly called YAM, seeks to provide community to those that are in their late teens to early adulthood.</p>
+<img class="featurette-image pull-right" src="http://placehold.it/500x500">
+
+h2(featurette-heading). Fellowship
+
+We are not alone, fellows.
+We fellowship through, but not limited through, the following ways.
+
+<hr>
+
+h3(muted). Baptism and Communion
+
+These are two sacrements Jesus instituted for the church. They are an act which reveals our pledge to God and other believers. Baptism is held twice a year, on Easter Sunday and Christmas service. Communion, where we take bread and wine, is held every week, to remember Christ and his work.
+
+<hr>
+
+h3(muted). Diaconate Ministry
+
+Diaconate Ministry seeks mercy ministry opportunities in our community.
+
+<hr>
+
+h3(muted). Life Group
+
+A cup-panion, described so for the idea of meeting over a cup of coffee, is a small group meeting for those who want to meet one-on-one for the purpose of mutual encouragement and edification. The topic or reason for meeting is left up to the group. The duration of cup-panionship will vary, but we encourage you to keep it less than twelve weeks.
+
+<hr>
+
+h3(muted). Membership class
+
+Small groups are gatherings for guidance and discussion of God's workings in our lives.
+
+<hr>
+
+h3(muted). Spiritual direction
+
+The Young Adult Ministry, endearingly called YAM, seeks to provide community to those that are in their late teens to early adulthood.
+
 </div>
