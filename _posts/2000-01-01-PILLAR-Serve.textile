@@ -9,7 +9,7 @@ category: pillars
 
 h2(featurette-heading). Serve
 
-What is our last step? To serve.
+p(lead). What is our last step? To serve.
 Aside from our extended community, we have several ways for you to serve within the church.
 
 <hr>

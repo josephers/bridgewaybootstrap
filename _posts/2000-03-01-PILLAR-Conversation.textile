@@ -9,8 +9,7 @@ category: pillars
 
 h2(featurette-heading). Conversation
 
-
-The next step in our worship-focused life is conversation.
+p(lead). The next step in our worship-focused life is conversation.
 Let's get talking!
 
 <hr>

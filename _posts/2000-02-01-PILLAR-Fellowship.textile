@@ -9,7 +9,7 @@ category: pillars
 
 h2(featurette-heading). Fellowship
 
-We are not alone, fellows.
+p(lead). We are not alone, fellows.
 We fellowship through, but not limited through, the following ways.
 
 <hr>
