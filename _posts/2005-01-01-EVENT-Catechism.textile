@@ -1,0 +1,16 @@
+---
+title: Catechism
+image: http://bridgewaychurch.ca/images/slide03.jpg
+category: events
+---
+
+<div id="catechism" class="featurette">
+<img class="featurette-image pull-left" src="http://placehold.it/250x250">
+
+h2(featurette-heading). Catechism
+
+p(lead). Baptism.
+
+Lorem ipsum.
+
+</div>
