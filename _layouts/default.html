@@ -15,7 +15,7 @@
     /* GLOBAL STYLES
     -------------------------------------------------- */
     /* Padding below the footer and lighter body text */
-
+    
     body {
       padding-bottom: 40px;
       color: #5a5a5a;
@@ -39,9 +39,9 @@
       top: 0;
       left: 0;
       right: 0;
-      z-index: 10;
+      z-index: 11;
       padding-top: 20px;
-      margin-bottom: -90px; /* Negative margin to pull up carousel. 90px is roughly margins and height of navbar. */
+      margin: 0; /* Negative margin to pull up carousel. 90px is roughly margins and height of navbar. */
     }
 
     /* Navbar links: increase padding for taller navbar */
@@ -58,7 +58,7 @@
     }
     .carousel .container {
       position: relative;
-      z-index: 9;
+      z-index: 8;
     }
     .carousel-control {
       height: 80px;
@@ -67,7 +67,7 @@
       text-shadow: 0 1px 1px rgba(0,0,0,.4);
       background-color: transparent;
       border: 0;
-      z-index: 10;
+      z-index: 9;
     }
 
     .carousel .item {
@@ -163,16 +163,18 @@
     -------------------------------------------------- */
 
     @media (max-width: 979px) {
-      .container.navbar-wrapper {
-        margin-bottom: 0;
-        width: auto;
+      .masthead {
+          font-size: 12px;
       }
-      .carousel .item {
-        height: 500px;
+      .carousel {
+          margin-top: 200px;
+          margin-left: -20px;
+          margin-right: -20px;
+          height: 300px;
       }
       .carousel img {
         width: auto;
-        height: 500px;
+        height: 300px;
       }
       .featurette {
         height: auto;
@@ -182,32 +184,26 @@
       .featurette-image.pull-right {
         display: block;
         float: none;
-        max-width: 40%;
+        max-width: 80%;
         margin: 0 auto 20px;
+      }
+      .four-events h1 {
+          display: none;
       }
     }
     @media (max-width: 767px) {
-      .carousel {
-        margin-left: -20px;
-        margin-right: -20px;
-      }
-      .carousel .item {
-        height: 300px;
-      }
-      .carousel img {
-        height: 300px;
-      }
       .carousel-caption {
         width: 65%;
-        padding: 0 70px;
+        padding: 0 50px;
         margin-top: 100px;
+        font-size: 12px;
       }
       .carousel-caption h1 {
-        font-size: 30px;
+        font-size: 16px;
       }
       .carousel-caption .lead,
       .carousel-caption .btn {
-        font-size: 18px;
+        font-size: 14px;
       }
       .marketing .span4 + .span4 {
         margin-top: 40px;
@@ -235,5 +231,19 @@
 
 <body data-spy='scroll' data-target=".masthead">
     {{ content }}
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39060465-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 </body>
 </html>
