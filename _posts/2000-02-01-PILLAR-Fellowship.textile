@@ -56,8 +56,18 @@ The Young Adult Ministry, endearingly called YAM, seeks to provide community to 
     <h3>Membership Registration</h3>
   </div>
   <div class="modal-body">
-    <input type="text" name="entry.1793280494" id="entry_1793280494">
-    <input type="text" name="entry.1844896534" value="" id="entry_1844896534">
+    <div class="control-group">
+      <label class="control-label" for="entry_1793280494">Name</label>
+      <div class="controls">
+        <input type="text" name="entry.1793280494" id="entry_1793280494">
+      </div>
+    </div>
+    <div class="control-group">
+      <label class="control-label" for="entry_1844896534">Email</label>
+      <div class="controls">
+        <input type="text" name="entry.1844896534" value="" id="entry_1844896534">
+      </div>
+    </div>
   </div>
   <div class="modal-footer">
     <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
