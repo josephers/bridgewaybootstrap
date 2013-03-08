@@ -38,7 +38,7 @@ h3. Membership class
 
 div(span10). Membership class is for joining Bridgeway formally.
 
-div(span2). "(btn btn-success btn-block)Membership":
+div(span2). <a href="#membershipModal" role="button" class="btn btn-block btn-success" data-toggle="modal">Membership</a>
 
 </div>
 
@@ -48,4 +48,29 @@ h3(muted). Spiritual direction
 
 The Young Adult Ministry, endearingly called YAM, seeks to provide community to those that are in their late teens to early adulthood.
 
+</div>
+
+<div id="membershipModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="membership" aria-hidden="true">
+  <form action="https://docs.google.com/forms/d/1L3TKbloZqKaseS6_XSjg1iVJBAtJaUtswVv8DgR9x0c/formResponse" method="POST" id="ss-form" target="_self" onsubmit="">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    <h3>Membership Registration</h3>
+  </div>
+  <div class="modal-body">
+    <form action="https://docs.google.com/forms/d/1L3TKbloZqKaseS6_XSjg1iVJBAtJaUtswVv8DgR9x0c/formResponse" method="POST" id="ss-form" target="_self" onsubmit="">
+    <div class="errorbox-good">
+      Name
+
+    <input type="text" name="entry.1793280494" id="entry_1793280494">
+
+    <input type="text" name="entry.1844896534" value="" id="entry_1844896534">
+
+    <div class="ss-item ss-navigate"><div class="ss-form-entry">
+    <input type="submit" name="submit" value="Submit" id="ss-submit">
+  </div>
+  <div class="modal-footer">
+    <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+    <button class="btn btn-success">Send</button>
+  </div>
+  </form>
 </div>
