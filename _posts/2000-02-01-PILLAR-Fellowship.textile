@@ -48,7 +48,6 @@ h3(muted). Spiritual direction
 
 The Young Adult Ministry, endearingly called YAM, seeks to provide community to those that are in their late teens to early adulthood.
 
-</div>
 
 <div id="membershipModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="membership" aria-hidden="true">
   <form action="https://docs.google.com/forms/d/1L3TKbloZqKaseS6_XSjg1iVJBAtJaUtswVv8DgR9x0c/formResponse" method="POST" id="ss-form" target="_self" onsubmit="">
@@ -60,8 +59,6 @@ The Young Adult Ministry, endearingly called YAM, seeks to provide community to 
     <input type="text" name="entry.1793280494" id="entry_1793280494">
 
     <input type="text" name="entry.1844896534" value="" id="entry_1844896534">
-
-    <div class="ss-item ss-navigate"><div class="ss-form-entry">
 
   </div>
   <div class="modal-footer">
