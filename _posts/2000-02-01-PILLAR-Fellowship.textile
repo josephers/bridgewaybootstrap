@@ -38,13 +38,9 @@ h3. Membership class
 
 div(span10). Membership class is for joining Bridgeway formally.
 
-div(span2). "(btn btn-success btn-block)Membership":#
+div(span2). "(btn btn-success btn-block)Membership":
 
 </div>
-
-
-
-Small groups are gatherings for guidance and discussion of God's workings in our lives.
 
 <hr>
 
