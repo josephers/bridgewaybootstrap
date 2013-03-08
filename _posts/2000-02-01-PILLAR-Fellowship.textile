@@ -32,7 +32,17 @@ A cup-panion, described so for the idea of meeting over a cup of coffee, is a sm
 
 <hr>
 
-h3(muted). Membership class
+h3. Membership class
+
+<div class="row-fluid">
+
+div(span10). Membership class is for joining Bridgeway formally.
+
+div(span2). "(btn btn-success btn-block)Membership":#
+
+</div>
+
+
 
 Small groups are gatherings for guidance and discussion of God's workings in our lives.
 
