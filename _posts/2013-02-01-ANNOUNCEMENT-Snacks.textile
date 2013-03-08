@@ -3,4 +3,6 @@ title: Weekly Snacks
 category: announcements
 ---
 
-Would you like to prepare after-service snacks? We have a $50 weekly budget to reimburse you! Check out our high-tech solution to coordinate weekly snacks: please sign up "(btn btn-success)here":https://docs.google.com/spreadsheet/ccc?key=0AsgUEbjNSoASdENPSWQ0Tl95UURMY0Q0U0l2SHJ2c1E#gid=0.
+div(span10). Would you like to prepare after-service snacks? We have a $50 weekly budget to reimburse you! Check out our high-tech solution to coordinate weekly snacks!
+
+div(span2). (btn btn-success)here":https://docs.google.com/spreadsheet/ccc?key=0AsgUEbjNSoASdENPSWQ0Tl95UURMY0Q0U0l2SHJ2c1E#gid=0.
