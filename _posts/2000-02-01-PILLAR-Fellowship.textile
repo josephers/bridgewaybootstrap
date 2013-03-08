@@ -4,7 +4,7 @@ image: http://bridgewaychurch.ca/images/slide02.jpg
 category: pillars
 ---
 
-<div id="fellowship" class="featurette">
+<div id="Fellowship" class="featurette">
 <img class="featurette-image pull-right" src="http://placehold.it/250x250">
 
 h2(featurette-heading). Fellowship

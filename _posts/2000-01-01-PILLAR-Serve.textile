@@ -4,7 +4,7 @@ image: http://bridgewaychurch.ca/images/slide03.jpg
 category: pillars
 ---
 
-<div id="serve" class="featurette">
+<div id="Serve" class="featurette">
 <img class="featurette-image pull-left" src="http://placehold.it/250x250">
 
 h2(featurette-heading). Serve
