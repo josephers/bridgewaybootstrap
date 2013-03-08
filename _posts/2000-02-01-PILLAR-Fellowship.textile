@@ -50,7 +50,7 @@ The Young Adult Ministry, endearingly called YAM, seeks to provide community to 
 
 
 <div id="membershipModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="membership" aria-hidden="true">
-  <form action="https://docs.google.com/forms/d/1L3TKbloZqKaseS6_XSjg1iVJBAtJaUtswVv8DgR9x0c/formResponse" method="POST" id="ss-form" target="_self" onsubmit="$.post('https://docs.google.com/forms/d/1L3TKbloZqKaseS6_XSjg1iVJBAtJaUtswVv8DgR9x0c/formResponse', $('#ss-form'').serialize());;return false;" class="form-horizontal">
+  <form action="https://docs.google.com/forms/d/1L3TKbloZqKaseS6_XSjg1iVJBAtJaUtswVv8DgR9x0c/formResponse" method="POST" id="ss-form" onsubmit="$.post('https://docs.google.com/forms/d/1L3TKbloZqKaseS6_XSjg1iVJBAtJaUtswVv8DgR9x0c/formResponse', $('#ss-form'').serialize());" class="form-horizontal">
   <div class="modal-header">
     <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
     <h3>Membership Registration</h3>
