@@ -86,6 +86,18 @@ title: Bridgeway Church
 
   <div class="container-narrow marketing">
     <!-- Announcements -->
+    <div id="announcements" class="featurette">
+      <div span="">
+    {% for announcement in site.categories.announcements %}
+       <hr class="featurette-divider">
+       <h2 class="featurette-heading text-center text-success">{{ announcement.title }}</h2>
+       <h4 class="text-center muted">{{ announcement.date | date: "%B %d" }}</h4>
+       {{ announcement.content }}
+    {% endfor %}
+
+    <!-- /Announcements -->
+    </div>
+    <!-- START THE FEATURETTES -->
 
     <hr class="featurette-divider">
 
@@ -93,6 +105,34 @@ title: Bridgeway Church
        {{ pillar.content }}
        <hr class="featurette-divider">
     {% endfor %}
+
+
+    {% for event in site.categories.events limit:4 %}
+       {{ event.content }}
+       <hr class="featurette-divider">
+    {% endfor %}
+
+    <div id="find_us" class="featurette">
+      <h2 class="featurette-heading">Find us</h2>
+      <div class="row-fluid">
+        <div class="span6">
+            <iframe height="500" width="421" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.ca/maps?ie=UTF8&amp;cid=3573941933259968287&amp;q=Bridgeway+Church&amp;gl=CA&amp;hl=en&amp;t=m&amp;ll=43.852355,-79.352875&amp;spn=0.495159,0.576782&amp;z=10&amp;output=embed"></iframe>
+        </div>
+        <div class="span6">
+          <p class="lead">411 Gordon Baker Road, Toronto.</p>
+          <p>We have Sunday service from 10:30am to 12pm. And because we have intergenerational worship, your entire family is welcome! Toddlers and children have separate sections and special activities, complete with kid-friendly snacks.</p>
+
+<pre>Bridgeway Church
+411 Gordon Baker Road
+North York, Ontario
+M2H 2S6
+Telephone: 647.722.6677
+Fax: 416.226.5308</pre>
+          <h4>Need a ride?</h4>
+          <p>You can take our school bus, departing <strong>Finch Passenger Pickup</strong> at precisely 10:00AM. Or, or take the TTC bus #24 - Victoria Park bus to Sparks Avenue and head west, or the #42 Cummer bus to Harold Evans and walk north on Gordon Baker.</p>
+        </div>
+      </div>
+    </div>
 
     <hr class="featurette-divider">
     <!-- /END THE FEATURETTES -->
