@@ -101,12 +101,6 @@ title: Bridgeway Church
 
     <hr class="featurette-divider">
 
-    {% for pillar in site.categories.pillars limit:4 %}
-       {{ pillar.content }}
-       <hr class="featurette-divider">
-    {% endfor %}
-
-
     {% for event in site.categories.events limit:4 %}
        {{ event.content }}
        <hr class="featurette-divider">
