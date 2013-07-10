@@ -1,11 +1,11 @@
 ---
 title: Weekly Snacks
-category: announcements
+category: sticky
 ---
 
 <div class="row-fluid">
 
-div(span10). Would you like to prepare after-service snacks? We have a $50 weekly budget to reimburse you! Check out our high-tech solution to coordinate weekly snacks!
+div(span10). Would you like to prepare after-service snacks? We have a $50 weekly budget to reimburse you! Check out our high-tech solution to coordinate weekly snacks! Also, check out this "handy guide":https://docs.google.com/document/d/1Z0UMLy5IyNuThtU1TqZpJGTnjmLPX1gdGVByds9neN8/ to preparing your snacks, complete with some ideas for you.
 
 div(span2). "(btn btn-success btn-block)Snacks":https://docs.google.com/spreadsheet/ccc?key=0AsgUEbjNSoASdENPSWQ0Tl95UURMY0Q0U0l2SHJ2c1E#gid=0
 

@@ -1,0 +1,18 @@
+---
+title: Catechism
+image: http://bridgewaychurch.ca/images/slide03.jpg
+category: events
+---
+
+<div id="retreat" class="featurette">
+<img class="featurette-image pull-left" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Brock_University_campus.JPG/640px-Brock_University_campus.JPG" style="width: 200px;">
+
+h2(featurette-heading). Summer Retreat
+
+p(lead). All-weekend retreat at Brock University - no Sunday Worship Service in Toronto.
+
+We have no Sunday service on Sunday, July 14th, as we are away at Brock University for a summer retreat. If you'd like to join us for Sunday service, we will have worship starting at 10:30AM as usual. Our residence is Alan Earp Residence for the weekend.
+
+If you are attending, registration begins at 4PM on Friday, July 12th, and our first session will begin at 8PM. Please grab something to eat before you arrive for the evening!
+
+</div>
