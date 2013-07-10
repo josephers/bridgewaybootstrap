@@ -1,6 +1,5 @@
 ---
-title: Catechism
-image: http://bridgewaychurch.ca/images/slide03.jpg
+title: Summer Retreat
 category: events
 ---
 
