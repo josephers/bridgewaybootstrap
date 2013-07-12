@@ -4,7 +4,8 @@ category: events
 ---
 
 <div id="retreat" class="featurette">
-<img class="featurette-image pull-left" src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Brock_University_campus.JPG/640px-Brock_University_campus.JPG" style="width: 200px;">
+
+<div class="featurette-image pull-right span4"><iframe frameborder="0" scrolling="no" width="300" height="400" marginheight="0" marginwidth="0" src="https://maps.google.ca/maps?q=Alan+Earp+Residence,+Brock+University,+St+Catharines,+Regional+Municipality+of+Niagara,+Ontario+L2S+3A1&amp;ie=UTF8&amp;hl=en&amp;geocode=FUD4kQId4M5G-w&amp;split=0&amp;hq=&amp;hnear=Alan+Earp+Residence,+St+Catharines,+Niagara+Regional+Municipality,+Ontario+L2S+3A1&amp;t=m&amp;ll=43.123602,-79.242067&amp;spn=0.03007,0.054932&amp;z=14&amp;iwloc=near&amp;output=embed"></iframe></div>
 
 h2(featurette-heading). Summer Retreat
 
