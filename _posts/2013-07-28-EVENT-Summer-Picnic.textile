@@ -9,7 +9,7 @@ category: events
 
 h2(featurette-heading). Summer Picnic
 
-h3. July 28th
+h4. July 28th
 
 p(lead). After regular Sunday Service at Bridgeway Church, we will have a picnic at Downsview Dells.
 
