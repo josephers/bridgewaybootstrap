@@ -1,0 +1,18 @@
+---
+title: Summer Picnic
+category: events
+---
+
+<div id="picnic" class="featurette">
+
+<div class="featurette-image pull-right span4"><iframe frameborder="0" scrolling="no" width="300" height="400" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=downsview+dells&amp;aq=&amp;sll=36.500000,-95.500000&amp;sspn=41.000000,83.000000&amp;ie=UTF8&amp;hq=downsview+dells&amp;hnear=&amp;filter=0&amp;update=1&amp;t=m&amp;cid=7432756850132256621&amp;ll=43.765887,-79.489174&amp;spn=0.099175,0.102654&amp;z=12&amp;iwloc=near&amp;output=embed"></iframe></div>
+
+h2(featurette-heading). Summer Picnic
+
+p(lead). After regular Sunday Service at Bridgeway Church, we will have a picnic at Downsview Dells.
+
+We will be having our annual Bridgeway Summer Picnic at Downsview Dells, starting at 12:30AM. Our regular Sunday Service is still at 10:30AM at 411 Gordon Baker Road. Please speak to anyone in the Hospitality Team after service if you need a ride to Downsview Dells!
+
+Downsview Dells is at Sheppard and Keele — please note that this is not Downsview Park. The picnic site will be either #3 or #4.
+
+</div>
