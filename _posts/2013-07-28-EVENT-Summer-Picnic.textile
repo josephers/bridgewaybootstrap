@@ -9,11 +9,11 @@ category: events
 
 h2(featurette-heading). Summer Picnic
 
-h4. July 28th
+h3. July 28th, 12:30PM
 
 p(lead). After regular Sunday Service at Bridgeway Church, we will have a picnic at Downsview Dells.
 
-Our annual Bridgeway Summer Picnic is at Downsview Dells, starting at 12:30AM. Our regular Sunday Service is still at 10:30AM at 411 Gordon Baker Road. Please speak to anyone in the Hospitality Team after service if you need a ride to Downsview Dells!
+Our annual Bridgeway Summer Picnic is at Downsview Dells, starting at 12:30PM. Our regular Sunday Service is still at 10:30AM at 411 Gordon Baker Road. Please speak to anyone in the Hospitality Team after service if you need a ride to Downsview Dells!
 
 Downsview Dells is west of Sheppard and Keele. The picnic site will be either "#3 or #4":http://www.hanyangtoronto.com/bbs/table/board_8/upload/Downsview%20Dells%20Park.pdf, which is by the farthest parking lot.
 
