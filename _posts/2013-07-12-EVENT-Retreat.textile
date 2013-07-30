@@ -1,6 +1,7 @@
 ---
 title: Summer Retreat
 category: events
+published: false
 ---
 
 <div id="retreat" class="featurette">
